@@ -1,0 +1,3 @@
+Hello world
+This is second hello
+New line added after delete
